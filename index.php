@@ -14,10 +14,10 @@
 <p> First number:  </p> <input type="text " name="n1">
 <p> Second number: </p> <input type="text " name="n2">
 
-<p> + </p> <input type="radio" name="plus"> 
-<p> - </p> <input type="radio" name="minus"> 
-<p> * </p> <input type="radio" name="mnoz"> 
-<p> / </p> <input type="radio" name="del">
+<p> + </p> <input type="check" name="plus"> 
+<p> - </p> <input type="check" name="minus"> 
+<p> * </p> <input type="check" name="mnoz"> 
+<p> / </p> <input type="check" name="del">
 <input type= "submit">
 
 <p> Result: </p> <input type="text" name="rez">
